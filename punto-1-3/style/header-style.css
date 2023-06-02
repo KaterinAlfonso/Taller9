@@ -1,0 +1,42 @@
+/* ESTILOS HEADER */
+header {
+    display: flex;
+    margin: 0px 100px;
+    justify-content: space-between;
+}
+
+.header__navegation {
+    display: flex;
+    align-items: center;
+}
+
+.header__navegation nav ul {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+
+.header__navegation nav ul li a {
+    text-decoration: none;
+    color: #454868;
+}
+
+.header__settings {
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+
+.header__settings div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: 'Jost';
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.header__settings button {
+    background-color: transparent;
+    border: 1px solid #45486854;
+}
