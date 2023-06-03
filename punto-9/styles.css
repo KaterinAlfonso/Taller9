@@ -1,0 +1,32 @@
+main {
+    display: flex;
+    justify-content: center;
+    margin: 100px 100px;
+}
+
+table {
+    width: 1000px;
+    font-size: 20px;
+    background-color: yellow;
+}
+
+td {
+    text-align: left;
+    border-top: black 2px dotted;
+    border-left: black 2px dotted;
+    border-right: black 2px dotted;
+}
+
+th {
+    height: 50px;
+    color: red;
+    font-style: oblique;
+    border-top: black 2px dotted;
+    border-bottom: black 2px dotted;
+    border-left: black 2px dotted;
+    border-right: black 2px dotted;
+}
+
+.celda-combinada {
+    border-bottom: red 2px dashed;
+}

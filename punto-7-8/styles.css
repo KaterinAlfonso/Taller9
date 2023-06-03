@@ -1,0 +1,21 @@
+header {
+    margin: 0px 100px;
+    padding: 10px;
+    background-color: rgb(231, 139, 243);
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+
+a:hover {
+    color: #1717FF;
+    cursor: pointer;
+  }

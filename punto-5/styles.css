@@ -1,0 +1,29 @@
+header {
+    margin: 100px 350px;
+}
+span {
+    line-height: 45px;
+}
+.text__green {
+    color: green;
+}
+
+.text__red {
+    color: red;
+}
+
+.text__sub {
+    text-decoration: underline overline;
+}
+
+.text__big {
+    font-size: 50px;
+}
+
+.text__blue {
+    color:blue;
+}
+
+.text__red {
+    color: red;
+}

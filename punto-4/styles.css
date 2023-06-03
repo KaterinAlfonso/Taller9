@@ -1,0 +1,15 @@
+header {
+    margin: 100px 100px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.Title--blue {
+    color: blue;
+}
+
+.Title--red {
+    color: red
+}
